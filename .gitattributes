@@ -1,2 +1,2 @@
-models/yolo5_best.pt filter=lfs diff=lfs merge=lfs -text
-models/yolo5_last.pt filter=lfs diff=lfs merge=lfs -text
+models/yolov5_best.pt filter=lfs diff=lfs merge=lfs -text
+models/yolov5_last.pt filter=lfs diff=lfs merge=lfs -text
